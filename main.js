@@ -1,0 +1,10 @@
+var first_name=Scott;
+var last_name=cawthon;
+var full_name=first_name.concat(last_name);
+console.log(full_name);
+var a=50;
+var b=100;
+var add=a+b;
+console.log(add);
+var multiply=a*b;
+console.log(multiply);
